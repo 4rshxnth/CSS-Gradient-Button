@@ -5,7 +5,7 @@ A sleek and modern **gradient button component** built using only **HTML and CSS
 
 ## 📺 Watch the Full Tutorial on YouTube
 
-▶️ [Build a Stunning CSS Button with Gradient & Glow](https://youtu.be/1-Nxov0euFA?si=dSrGT_RMbK7OE5l8)
+▶️ [Build a Stunning CSS Button with Gradient Border & Glow Effect!](https://youtu.be/1-Nxov0euFA?si=dSrGT_RMbK7OE5l8)
 
 > Learn how to build this component step-by-step in under 10 minutes!
 > 
