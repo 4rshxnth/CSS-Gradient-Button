@@ -1,4 +1,4 @@
-# 🌈 Gradient Button UI
+# 🌈 Gradient Border + Glow Effect Button
 
 A sleek and modern **gradient button component** built using only **HTML and CSS**. This micro-interaction is perfect for landing pages, portfolios, and modern web UIs. Smooth animation and glowing gradient effect on hover — no JavaScript required.
 
