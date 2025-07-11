@@ -2,14 +2,14 @@
 
 A sleek and modern **gradient button component** built using only **HTML and CSS**. This micro-interaction is perfect for landing pages, portfolios, and modern web UIs. Smooth animation and glowing gradient effect on hover — no JavaScript required.
 
-## 📽️ Watch the Tutorial
 
-👉 [Watch on YouTube](https://youtube.com/@CodeWithAK)  
+## 📺 Watch the Full Tutorial on YouTube
+
+▶️ [How to Make a 3D Toggle Button Using HTML & CSS](https://youtu.be/1-Nxov0euFA?si=dSrGT_RMbK7OE5l8)
+
+> Learn how to build this component step-by-step in under 10 minutes!
+> 
 🔔 Don’t forget to **Subscribe** to **CodeWithAK** for more front-end UI tutorials!
-
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
-
-> Replace `YOUR_VIDEO_ID_HERE` with the actual YouTube video ID from the link.
 
 ---
 
