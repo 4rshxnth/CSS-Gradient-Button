@@ -52,3 +52,14 @@ cd gradient-button-ui
 ```bash
 start index.html
 ```
+---
+## 📄 License
+
+MIT License — free to use and modify for personal or commercial use.
+
+---
+
+## 🙌 Created by
+
+[![Creator: 4rshxnth](https://img.shields.io/badge/Made%20By-CodeWithAK-blueviolet?style=for-the-badge)](https://github.com/4rshxnth)
+[![Subscribe on YouTube](https://img.shields.io/badge/Subscribe-Youtube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@CodeWithAK-dev)
